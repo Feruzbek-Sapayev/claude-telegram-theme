@@ -1,0 +1,7 @@
+{
+  "name": "telegram",
+  "owner": { "name": "Feruzbek-Sapayev" },
+  "plugins": [
+    { "name": "telegram-dark", "source": "./", "description": "Telegram Desktop style dark theme: black doodle wallpaper, slate panels, green accents" }
+  ]
+}
